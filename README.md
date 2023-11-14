@@ -1,2 +1,6 @@
 # Bar_Sales_Correlation
 A project meant to show correlation between events and what is selling at a bar. (mock sales data used)
+
+
+PLACEHOLDER:
+I willl fix this readme as I update my project, but leaving this here if anyone checks before I have anything solid added to the repo. Originally I wanted to do this with actual sales data, but was asked to no longer use that data in a public setting. After a lot of time looking for a different project that called to me, I found a dataset generator. From there I was able to build a mock dataset on the types of sales, and use it against a calendar to show how to build a program to show correlation between events happening in and around a bar, with waht drinks would sell more or less at those times. this information would help bars better organise and handle ordering to always be prepared without wasted product. The mock data wont show the correlations as accurately as the real datasets would, but this project is a proof oof concept. I have altered the mock data in certain spots to atleast have one graph show the correlations this sort of program is meant to show.
