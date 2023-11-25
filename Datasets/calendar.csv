@@ -1,4 +1,4 @@
-Date,Day,Event,Holiday,Last of the Month,Popup,Sport
+date,day,event,holiday,last_of_the_month,popup,sport
 11/01/2022,tuesday,,,,,
 11/02/2022,wednesday,Karaoke,,,,
 11/03/2022,thursday,,,,,
@@ -302,7 +302,7 @@ Date,Day,Event,Holiday,Last of the Month,Popup,Sport
 10/25/2023,wednesday,Karaoke,,,Halloween,
 10/26/2023,thursday,Emo,,,Halloween,
 10/27/2023,friday,,,,Halloween,
-10/28/2023,saturday,,,,Halloween,
+10/28/2023,saturday,,Halloween Party,,Halloween,
 10/29/2023,sunday,,,,Halloween,
 10/31/2023,tuesday,,Halloween,Y,Halloween,
 11/01/2023,wednesday,Karaoke,,,,
