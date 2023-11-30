@@ -28,3 +28,8 @@ Virtual Environment Commands
 | Deactivate | `deactivate` | `deactivate` |
 
 3) Open `Dataframe-Notebook.ipynb` and run all cells. This notebook merges and cleans the data, sorting it into dataframes to show correlations, with notes to explaine how and why in terms my fiance with no code experienc can read.
+
+4) [Open this Dashboard link for event correlations](https://public.tableau.com/app/profile/kevin.sturgill/viz/MockBarSales-events/EventAffectonSales?publish=yes)   
+   [And Open this Dashboard to compare normal sales to the holiday popup](https://public.tableau.com/app/profile/kevin.sturgill/viz/MockBarSales/Popupvs_NoPopup)
+
+    (the workbook for the Tableau Dashboards is included in the files for anyone interested in the whole workbook)
