@@ -32,4 +32,6 @@ Virtual Environment Commands
 4) [Open this Dashboard link for event correlations](https://public.tableau.com/app/profile/kevin.sturgill/viz/MockBarSales-events/EventAffectonSales?publish=yes)   
    [And Open this Dashboard to compare normal sales to the holiday popup](https://public.tableau.com/app/profile/kevin.sturgill/viz/MockBarSales/Popupvs_NoPopup)
 
+   The colors chosen for the visualisations were chosen with colorblindness in mind.
+
     (the workbook for the Tableau Dashboards is included in the files for anyone interested in the whole workbook)
